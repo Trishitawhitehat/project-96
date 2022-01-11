@@ -1,0 +1,54 @@
+
+#logout {
+	font-size: 20px; float: right;
+  background-color: red;
+  color: white;
+  width: 100px;
+}
+
+.logo
+{
+	width: 80px;
+  margin-top: 30px;
+  border-radius: 40px;
+}
+
+html, body {
+  height: 100%;
+  text-align : center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+background: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+#output
+{
+	padding: 10px;
+  width:80%;
+  background: rgba(255,255,255,0.8);
+  border-radius: 15px;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+#add_room_button {
+    background-color: rgb(17, 245, 9);
+    width: 120px;
+    height: 25px;
+}
+
+#room_name {
+    border-style: none;
+    width: 360px;
+    height: 25px;
+    border-radius: 05px;
+}
+
+#msg {
+  width: 500px;
+}
